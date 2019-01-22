@@ -1,0 +1,11 @@
+Main Domain	demo.byethost3.com
+FTP hostname:	185.27.134.11
+FTP username:	b3_21196951
+MySQL hostname:	sql300.byethost3.com
+MySQL username:	b3_21196951
+Pass: g6svz89y
+Hosting Volume	vol15_8
+Home Directory:
+/home/vol15_8/byethost3.com/b3_21196951
+More account settings
+trang web dang nhâ?p hosting: http://cpanel.byethost.com/

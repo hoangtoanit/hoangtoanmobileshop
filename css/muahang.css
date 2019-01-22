@@ -1,0 +1,42 @@
+.h2-bar
+{
+	color: #DAA520;
+	font-weight: bold;
+}
+#checkout{
+	margin-top:15px;
+	}
+#checkout table{
+	font-size:12px;
+	font-weight: bold;
+	margin:15px 0;
+	}	
+#checkout table thead th{
+	color:#008000;
+	text-transform:capitalize;
+	text-align:center;
+	}
+#checkout table tr td 
+{
+	text-align:center;
+}
+#checkout table tr td span{
+	color:#DC143C;
+	}	
+#custom-form{
+	padding:0;
+	margin:15px 0;
+	}
+#custom-form form input{
+	border-radius:0;
+	}
+#custom-form form button
+{
+	color: #DC143C;
+	font-weight: bold;
+}
+#custom-form form label
+{
+	color: #4B0082;
+	font-weight: bold;
+}
